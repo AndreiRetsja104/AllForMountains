@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/ShopDisplay.html</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/css/styleCart.css</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/cart.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/SearchServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/QueryServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/contact.html</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/RegistrationServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/payment_success.jsp</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/login.html</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/UserService.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/index.html</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/img/welcome2%20.jpg</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/Product.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/WelcomeServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/welcome.html</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/LoginServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/DeliveryServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/EshopDisplayServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/img_product/Hiking_jacket.jpg</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/home.html</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/css/payment_style.css</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/InsertData.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/css/style1.css</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/img/welcome2.jpg</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/order_review_page.jsp</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/AppInitializationListener.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/img/Icon-cloths.png</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/CartServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/PaymentServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/cart.jsp</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/payment_details_form.jsp</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/img/welcome%20.jpg</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/CartItem.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/registration.html</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/LoginDatabaseConnector.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/CartUtils.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/img_product/Irelands-West-Coast.jpg</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/ContactServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/OrderServlet.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/src/Javas/CreateDatabase.java</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/delivery_form.jsp</file>
+            <file>file:/C:/Users/arets/OneDrive/Desktop/1_Summer_Work_Project/work%20space%20(2)/work%20space/WebContent/img/test.png</file>
+        </group>
+    </open-files>
+</project-private>

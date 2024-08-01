@@ -1,0 +1,12 @@
+{
+    "elements": {
+        "div": {},
+        "form": {},
+        "title": {}
+    },
+    "attributes": {
+        "name": {
+            "context": "meta"
+        }
+    }
+}
