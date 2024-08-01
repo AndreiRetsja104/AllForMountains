@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All For Mountains - Shop</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style1.css" />
+    <!-- Fork Awesome Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+    <!-- Favicon -->
+    <link rel="icon" href="img/Logo-Bike-96x96.png" type="image/png" />
+    <!-- Meta viewport for responsive design -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            padding-top: 50px; /* Adjust this value based on your navbar height */
+        }
+    </style>
+</head>
+<body class="bg-background" style="background: url('img/test.png')">
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-black bg-black fixed-top pt-4 pb-4 text-center">
+        <div class="container">
+            <!-- Brand Logo -->
+            <a class="navbar-brand montblack" href="index.html">
+                <img src="img/Logo-Bike-96x96.png" width="40" height="40" alt="Logo"/> All For Mountains
+            </a>
+            <!-- Toggler Button for Collapsed Navigation -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Navbar Links -->
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav mr-auto montlight" style="padding-right: 40px;">
+                    <!-- Home Link -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <!-- Shop Dropdown -->
+                    <li class="nav-item dropdown montlight" id="shop">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" id="dropshop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            SHOP
+                        </a>
+                        <div class="dropdown-menu bg-dark bg-black" aria-labelledby="dropshop">
+                            <a class="dropdown-item text-white" href="QueryServlet?producttype=Mountain Bikes">Mountain Bikes</a>
+                            <a class="dropdown-item text-white" href="QueryServlet?producttype=Hiking Clothes">Hiking Clothes</a>
+                            <a class="dropdown-item text-white" href="QueryServlet?producttype=Hiking Boots">Hiking Boots</a>
+                            <a class="dropdown-item text-white" href="QueryServlet?producttype=Hiking Tours">Hiking Tours</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item text-white" href="cart.jsp"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</a>
+                        </div>
+                    </li>
+                    <!-- Support Dropdown -->
+                    <li class="nav-item dropdown montlight">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" id="dropsupport" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Support
+                        </a>
+                        <div class="dropdown-menu bg-dark bg-black" aria-labelledby="dropsupport">
+                            <a class="dropdown-item text-white" href="contact.html">Contact Us</a>
+                        </div>
+                    </li>
+                    <!-- Account Dropdown -->
+                    <li class="nav-item dropdown montlight">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" id="dropaccount" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Account
+                        </a>
+                        <div class="dropdown-menu bg-dark bg-black" aria-labelledby="dropaccount">
+                            <a class="dropdown-item text-white" href="login.html"><i class="fa fa-key" aria-hidden="true"></i> Login</a>
+                            <a class="dropdown-item text-white" href="registration.html"><i class="fa fa-user-plus" aria-hidden="true"></i> Register</a>
+                        </div>
+                    </li>
+                </ul>
+                <!-- Search Form -->
+                <span class="navbar-text montlight">
+                    <form class="form-inline" action="SearchServlet" method="get">
+                        <div class="input-group">
+                            <input class="form-control" type="text" name="search" placeholder="Search" aria-label="Search" aria-describedby="Search Button">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-warning" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </form>
+                </span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Shop Display Content -->
+    <div class="container mt-5">
+        <!-- Add your shop display content here -->
+    </div>
+
+    <!-- JavaScript and jQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap Bundle -->
+    <script src="js/bootstrap.bundle.js"></script>
+</body>
+</html>
